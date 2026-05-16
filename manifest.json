@@ -5,3 +5,19 @@
     "type": "image/png"
   }
 ]
+{
+  "name": "Pencatatan Pendapatan",
+  "short_name": "Pendapatan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
